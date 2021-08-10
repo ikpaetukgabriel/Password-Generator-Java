@@ -10,3 +10,10 @@ It is guaranteed that A, B, C, and N are non-negative integers, and A + B + C <=
 ## Sample Output 1:
 
 #### ABAab121AB
+
+## Sample Input 2:
+
+#### 7 8 12 30
+## Sample Output 2:
+
+#### NBXUEAXbrasgkjy575316814016L37
