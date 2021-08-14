@@ -7,6 +7,8 @@ public class Main {
         return (int) (Math.random() * range) + min;
     }
 
+
+    // Generates password
     public static String partGenerator(int charNumber, String type) {
         int start;
         int end;
